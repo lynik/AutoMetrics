@@ -1,2 +1,2 @@
 # AutoMetrics
-Automatic Creation of common metrics
+Periodic creation of various metrics required for various things
